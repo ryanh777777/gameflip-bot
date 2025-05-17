@@ -1,0 +1,15 @@
+{
+  "GFAPI_KEY": "4c6b02d25f1f9bc67718e737444da3",
+  "GFAPI_SECRET": "VSH7AIZWR6DJNOAYPDAW54H5FYN7W77H",
+  "post": {
+    "description": "",
+    "deliveryTime": 1,
+    "interval": 90,
+    "expiry": 7,
+    "game": "Elden Ring",
+    "appendQuantity": true
+  },
+  "delete": {
+    "sort": "onsale:asc"
+  }
+}
